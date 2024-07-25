@@ -8,6 +8,15 @@ In this project, our goal is to predict tomorrow's temperature using historical 
 * Client setup
 * Message handling
 
+# Local Setup
+
+## Installation
+
+To follow this project, we will need to install the following locally:
+
+* A C++ compiler (e.g., GCC, MSVC)
+* Winsock library (typically included with Windows development environments)
+
 # Usage
 Starting the Server:
 
@@ -34,12 +43,3 @@ Example Interaction
 * The server receives Alice’s message and forwards it to all connected clients, including Bob.
 * Bob sees the message: "Alice : Hello everyone!" and responds with "Hi Alice!"
 * The server forwards Bob's message to Alice and any other connected clients.
-  
-# Local Setup
-
-## Installation
-
-To follow this project, we will need to install the following locally:
-
-* A C++ compiler (e.g., GCC, MSVC)
-* Winsock library (typically included with Windows development environments)
