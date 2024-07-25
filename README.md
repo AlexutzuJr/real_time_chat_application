@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, our goal is to predict tomorrow's temperature using historical data. The process begins by downloading a dataset of local weather. Next, the data will be cleaned and prepared for machine learning. A system will be built to make historical predictions, followed by the addition of more predictors to improve the model. We will end with how to make next-day predictions.
+This project consists of a server and a client application designed to facilitate real-time chat communication between multiple clients. It is implemented in C++ using the Winsock2 API for network communication. The server handles multiple clients simultaneously, relaying messages between them, while each client connects to the server to send and receive messages.
 
 **Project Steps**
 * Initialize Winsock
