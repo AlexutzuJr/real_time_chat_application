@@ -39,7 +39,7 @@ Example Interaction
 
 ## Installation
 
-To follow this project, please install the following locally:
+To follow this project, we will need to install the following locally:
 
 * A C++ compiler (e.g., GCC, MSVC)
 * Winsock library (typically included with Windows development environments)
