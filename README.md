@@ -28,15 +28,9 @@ Connecting Clients:
 * Compile and run the client code on any machine.
 * Provide the server's IP address (default is "127.0.0.1" for localhost) and connect.
 * Enter a chat name and start sending and receiving messages.
-* Example Interaction
-* Client A connects to the server and sets the chat name as "Alice".
-* Client B connects and sets the chat name as "Bob".
-* Alice sends a message: "Hello everyone!"
-* The server receives Alice’s message and forwards it to all connected clients, including Bob.
-* Bob sees the message: "Alice : Hello everyone!" and responds with "Hi Alice!"
-* The server forwards Bob's message to Alice and any other connected clients.
 
-Example Interaction
+Example Interaction:
+
 * Client A connects to the server and sets the chat name as "Alice".
 * Client B connects and sets the chat name as "Bob".
 * Alice sends a message: "Hello everyone!"
